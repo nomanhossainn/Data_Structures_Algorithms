@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mdnomanhossain/Documents/Noman/UIU/6th/DSA 2 Lab",
+      "program": "/Users/mdnomanhossain/Documents/Noman/UIU/6th/DSA 2 Lab/build/Debug/outDebug"
+    }
+  ]
+}
